@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harish Kumar
 - 👀 I’m interested in Analyzing the Data.
 - 🌱 I’m Software Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/harish-kumar-b098031b0/
+- 📫 You can reach me through https://www.linkedin.com/in/harish-kumar-b098031b0/
 - 😄 Pronouns: he/him
